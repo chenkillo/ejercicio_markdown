@@ -65,13 +65,9 @@ El club es el máximo ganador de la Champions League y de LaLiga.
 
 ## Imágenes
 
-Imagen local (carpeta `assets`):
+Imagen local (carpeta `assets`) de la fachada principal del estadio:
 
-![Imagen local relacionada con el Real Madrid](assets/mi-imagen.png)
-
-Imagen de Wikimedia Commons sobre el club:
-
-![Fachada principal del estadio, imagen de Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%C2%AE_S.D._MADRID_E.S.B._FACHADA_PRINCIPAL_-_panoramio.jpg/960px-%C2%AE_S.D._MADRID_E.S.B._FACHADA_PRINCIPAL_-_panoramio.jpg)
+![Fachada principal del estadio del Real Madrid](assets/mi-imagen.png)
 
 Imagen de Wikimedia Commons sobre mi instituto, el IES Clara del Rey, situado en Madrid, la misma ciudad del club:
 
